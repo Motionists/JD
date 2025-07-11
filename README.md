@@ -6,7 +6,6 @@
 
 ## 项目结构
 ```
-code 
 JD/
 ├── jdStatic.html    # 主页面文件
 ├── style.css        # 样式文件
